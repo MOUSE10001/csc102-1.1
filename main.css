@@ -1,0 +1,35 @@
+/*
+declaration block:
+
+selector{
+    property: value;
+    property: value;
+}
+*/
+
+body{
+    backround-color:rgb(23, 22, 23);
+    color:rgb(212, 70, 70);
+}
+
+nav{
+    height:600px;
+    width:200px;
+    float:left;
+    padding:5px; 
+    line-height:30px;
+}
+
+footer{
+    text-align:center;
+    margin-right:200px;
+}
+
+#cat-meme-1.webp{
+margin-right:200px;
+width:400px;
+}
+
+h1{
+        text-align: center;
+}
